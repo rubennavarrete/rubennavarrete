@@ -1,4 +1,4 @@
-### Hi there, I'm [Richard Vinueza][website] 👋
+### Hi there, I'm [Ruben Valencia][website] 👋
 
 ## I'm a Sofware Student!
 - 🔭 I’m currently working on [DarkPixl][website]!
@@ -6,12 +6,6 @@
 - 🌎 I’m from Ecuador
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -78,7 +72,7 @@
   
   ## TOP
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardnarvaez&layout=compact&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubennavarrete&layout=compact&count_private=true" />
 </a>
 
 ##### v.1.1.2
@@ -88,11 +82,4 @@
 
 
 [website]: https://darkpixl.com
-[twitter]: https://twitter.com/richardvnarvaez
-[youtube]: https://youtube.com/richardvnarvaez
-[instagram]: https://instagram.com/richardvnarvaez
-[linkedin]: www.linkedin.com/in/richardvnarvaez
-[webdevplaylist]: https://www.youtube.com/playlist?
-[jsplaylist]: https://www.youtube.com/playlist?
-[cssplaylist]: https://www.youtube.com/playlist?
-[reactplaylist]: https://www.youtube.com/playlist?
+
