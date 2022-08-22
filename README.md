@@ -68,7 +68,7 @@
   
   ## TOP
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubennavarrete&layout=compact&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubennavarrete&layout=compact&count_private=true&langs_count=10" />
 </a>
 
 ##### v.1.1.2
